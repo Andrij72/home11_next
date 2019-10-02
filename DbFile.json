@@ -1,0 +1,113 @@
+[
+  {
+    "typeFruit": "STRAWBERRY",
+    "shelfLife": 2,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 45
+  },
+  {
+    "typeFruit": "BANANA",
+    "shelfLife": 2,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 30
+  },
+  {
+    "typeFruit": "APRICOT",
+    "shelfLife": 2,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 55
+  },
+  {
+    "typeFruit": "PLUM",
+    "shelfLife": 4,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 67
+  },
+  {
+    "typeFruit": "PEAR",
+    "shelfLife": 2,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 47
+  },
+  {
+    "typeFruit": "LEMON",
+    "shelfLife": 10,
+    "date": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "price": 30
+  },
+  {
+    "typeFruit": "APPLE",
+    "shelfLife": 12,
+    "date": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    },
+    "price": 25
+  },
+  {
+    "typeFruit": "PEACH",
+    "shelfLife": 8,
+    "date": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    },
+    "price": 20
+  },
+  {
+    "typeFruit": "STRAWBERRY",
+    "shelfLife": 3,
+    "date": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    },
+    "price": 85
+  },
+  {
+    "typeFruit": "GRAPES",
+    "shelfLife": 4,
+    "date": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    },
+    "price": 55
+  },
+  {
+    "typeFruit": "RUSPBERRY",
+    "shelfLife": 6,
+    "date": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    },
+    "price": 60
+  }
+]
+
